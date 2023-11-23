@@ -22,7 +22,7 @@
           <sonar.host.url>https://sonarcloud.io</sonar.host.url>
           <sonar.organization>binaryops</sonar.organization>  
           <sonar.projectKey>binaryops_javaapps</sonar.projectKey>
-          <sonar.login>s274dad7664a55ece78dcfeb5f17862d2eb7b7e0a</sonar.login>
+          <sonar.login>274dad7664a55ece78dcfeb5f17862d2eb7b7e0a</sonar.login>
     </properties>
 
        
