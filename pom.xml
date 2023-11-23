@@ -19,6 +19,10 @@
         <sonar.projectKey>cloudbinaryio</sonar.projectKey>
         <sonar.login>sqp_ee60244f58bb57abe4bccfbcf177a686037bf14a</sonar.login> -->
 
+          <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+          <sonar.organization>binaryops</sonar.organization>  
+          <sonar.projectKey>binaryops_javaapps</sonar.projectKey>
+          <sonar.login>s274dad7664a55ece78dcfeb5f17862d2eb7b7e0a</sonar.login>
     </properties>
 
        
